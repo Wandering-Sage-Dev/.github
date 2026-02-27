@@ -1,3 +1,1 @@
 # Wandering Sage Dev
-
-Hi
